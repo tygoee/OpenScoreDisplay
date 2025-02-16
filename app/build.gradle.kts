@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "org.tygoe.openscoredisplay"
+    namespace = "org.tygoe.opensheetreader"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "org.tygoe.openscoredisplay"
+        applicationId = "org.tygoe.opensheetreader"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

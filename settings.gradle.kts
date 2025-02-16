@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OpenScoreDisplay"
+rootProject.name = "OpenSheetReader"
 include(":app")

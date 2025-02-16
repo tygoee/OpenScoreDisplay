@@ -1,4 +1,4 @@
-package org.tygoe.openscoredisplay
+package org.tygoe.opensheetreader
 
 import org.junit.Test
 
